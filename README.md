@@ -13,14 +13,19 @@ This is the repo supporting the Penn State Psychology Department's conversation 
     - Earp, B.D. (2015, September 2). Psychology Is Not in Crisis? Depends on What You Mean by "Crisis". Retrieved from <http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html>.
     - Abrams, D., Clayton, S., & Crandall, C. (n.d.). The Reproducibility Crisis: Less Than Meets the Eye. Retrieved September 20, 2015, from <https://www.psychologytoday.com/blog/sound-science-sound-policy/201509/the-reproducibility-crisis-less-meets-the-eye>.
 - Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., … Yarkoni, T. (2015). Promoting an open research culture. Science, 348(6242), 1422–1425. <http://doi.org/10.1126/science.aab2374>. Suggests guidelines for journals.
-- Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science. Psychological Inquiry, 23(3), 244–247. <http://doi.org/10.1080/1047840X.2012.705133>
+- Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science. Psychological Inquiry, 23(3), 244–247. <http://doi.org/10.1080/1047840X.2012.705133>.
+- Nuijten, M. B., Hartgerink, C. H. J., Assen, M. A. L. M. van, Epskamp, S., & Wicherts, J. M. (2015). The prevalence of statistical reporting errors in psychology (1985–2013). Behavior Research Methods, 1–22. <http://doi.org/10.3758/s13428-015-0664-2>.
+- Macleod, M. R., Lawson McLean, A., Kyriakopoulou, A., Serghiou, S., de Wilde, A., Sherratt, N., … Sena, E. S. (2015). Risk of Bias in Reports of In Vivo Research: A Focus for Improvement. PLoS Biol, 13(10), e1002273. <http://doi.org/10.1371/journal.pbio.1002273>
 - Other views on reproducibility and data sharing
     + Gelman, A. (2015, September 14). Why aren’t people sharing their data and code? Retrieved September 20, 2015, from <http://andrewgelman.com/2015/09/14/its-not-so-easy-to-share-data-and-code-and-there-are-lots-of-bureaucrats-who-spend-their-time-making-it-even-more-difficult/>
     + Gelman, Andrew. (2015, September 16). The aching desire for regular scientific breakthroughs. Retrieved September 20, 2015, from <http://andrewgelman.com/2015/09/16/harsh/>
     + Eisenberg, N. (2015, June). Thoughts on the Future of Data Sharing - Association for Psychological Science. Retrieved from <https://www.psychologicalscience.org/index.php/publications/observer/2015/may-june-15/thoughts-on-the-future-of-data-sharing.html>
     + Bishop, Dorothy. (2015, July 11). BishopBlog: Publishing replication failures: some lessons from history. Retrieved from <http://deevybee.blogspot.com/2015/07/publishing-replication-failures-some.html>
     + Ascoli, G. A. (2006). The ups and downs of neuroscience shares. Neuroinformatics, 4(3), 213–215. <http://doi.org/10.1385/NI:4:3:213>
-    
+    + Bishop, D. (2015, October 29). How to make biomedical research more reproducible. Nature. <http://dx.doi.org/10.1038/nature.2015.18684>.
+    + Johnson, C. Y. (2015, October 15). What happened when a group of researchers tried to repeat a headline-grabbing study. The Washington Post. Retrieved from <https://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/what-happened-when-a-group-of-researchers-tried-to-repeat-a-headline-grabbing-study/>.
+    + Leek, J. (2015, October 1). A glass half full interpretation of the replicability of psychological science | Simply Statistics. Retrieved from <http://simplystatistics.org/2015/10/01/a-glass-half-full-interpretation-of-the-replicability-of-psychological-science/>.
+
 ## Resources
 
 - [The Center for Open Science](http://centerforopenscience.org)
