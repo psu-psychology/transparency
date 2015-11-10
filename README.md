@@ -30,6 +30,10 @@ This is the repo supporting the Penn State Psychology Department's conversation 
     + Nagel, T. (2015, October 8). New approach could help reduce bias in research, Stanford scholar says. Retrieved November 2, 2015, from <http://news.stanford.edu/news/2015/october/research-analysis-maccoun-100815.html>.
     + Guerra, S. (2015, September 28). Reproduce or Bust?!: Bringing Reproducibility Back to Center Stage | Science in the News. Retrieved from <http://sitn.hms.harvard.edu/flash/2015/reproduce-or-bust-bringing-reproducibility-back-to-center-stage/>.
     + Earp, B. D. (2015, September 2). Psychology Is Not in Crisis? Depends on What You Mean by "Crisis". Retrieved November 2, 2015, from <http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html>.
+    + Makel, J. P. & M. (2015, November 4). The Painful Necessity of Replicating Research - Education Week. Education Week. Retrieved from <http://www.edweek.org/ew/articles/2015/11/04/the-painful-necessity-of-replicating-research.html>.
+    + Lindsay, D. S. (2015). Replication in Psychological Science. Psychological Science, 0956797615616374. <http://doi.org/10.1177/0956797615616374>.
+    + politicalsciencereplication.wordpress.com. (n.d.). Political Scientists Trying to Delay Research Transparency. Retrieved from <https://politicalsciencereplication.wordpress.com/2015/11/07/political-scientists-trying-to-delay-research-transparency/>
+    + Ortman, Andreas (2015, November 2). The replication crisis has engulfed economics. Retrieved November 10, 2015, from <http://theconversation.com/the-replication-crisis-has-engulfed-economics-49202>.
 
 ## Resources
 
