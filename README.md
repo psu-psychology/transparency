@@ -18,6 +18,8 @@ This is the repo supporting the Penn State Psychology Department's conversation 
 - Macleod, M. R., Lawson McLean, A., Kyriakopoulou, A., Serghiou, S., de Wilde, A., Sherratt, N., … Sena, E. S. (2015). Risk of Bias in Reports of In Vivo Research: A Focus for Improvement. PLoS Biol, 13(10), e1002273. <http://doi.org/10.1371/journal.pbio.1002273>.
 - Vanpaemel, W., Vermorgen, M., Deriemaecker, L., & Storms, G. (2015). Are We Wasting a Good Crisis? The Availability of Psychological Research Data after the Storm. Collabra, 1(1). <http://doi.org/10.1525/collabra.13>.
 -  Shaw, D. M., & Erren, T. C. (2015). Ten Simple Rules for Protecting Research Integrity. PLoS Comput Biol, 11(10), e1004388. <http://doi.org/10.1371/journal.pcbi.1004388>.
+- Shanks DR, Vadillo MA, Riedel B, Clymo A, Govind S, Hickin N, Tamman AJ, & Puhlmann LM (2015). Romance, Risk, and Replication: Can Consumer Choices and Risk-Taking Be Primed by Mating Motives? Journal of experimental psychology. General PMID: 26501730.
+    + Neuroskeptic. (2015, November 15). Reproducibility Crisis: The plot thickens. Retrieved November 15, 2015 from <http://blogs.discovermagazine.com/neuroskeptic/2015/11/10/reproducibility-crisis-the-plot-thickens/#.VkS7loT9mzf>
 - Other views on reproducibility and data sharing
     + Gelman, A. (2015, September 14). Why aren’t people sharing their data and code? Retrieved September 20, 2015, from <http://andrewgelman.com/2015/09/14/its-not-so-easy-to-share-data-and-code-and-there-are-lots-of-bureaucrats-who-spend-their-time-making-it-even-more-difficult/>
     + Gelman, Andrew. (2015, September 16). The aching desire for regular scientific breakthroughs. Retrieved September 20, 2015, from <http://andrewgelman.com/2015/09/16/harsh/>
@@ -34,6 +36,7 @@ This is the repo supporting the Penn State Psychology Department's conversation 
     + Lindsay, D. S. (2015). Replication in Psychological Science. Psychological Science, 0956797615616374. <http://doi.org/10.1177/0956797615616374>.
     + politicalsciencereplication.wordpress.com. (n.d.). Political Scientists Trying to Delay Research Transparency. Retrieved from <https://politicalsciencereplication.wordpress.com/2015/11/07/political-scientists-trying-to-delay-research-transparency/>
     + Ortman, Andreas (2015, November 2). The replication crisis has engulfed economics. Retrieved November 10, 2015, from <http://theconversation.com/the-replication-crisis-has-engulfed-economics-49202>.
+    - 
 
 ## Resources
 
