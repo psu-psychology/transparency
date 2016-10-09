@@ -36,7 +36,6 @@ This is the repo supporting the Penn State Psychology Department's conversation 
     + Lindsay, D. S. (2015). Replication in Psychological Science. Psychological Science, 0956797615616374. <http://doi.org/10.1177/0956797615616374>.
     + politicalsciencereplication.wordpress.com. (n.d.). Political Scientists Trying to Delay Research Transparency. Retrieved from <https://politicalsciencereplication.wordpress.com/2015/11/07/political-scientists-trying-to-delay-research-transparency/>
     + Ortman, Andreas (2015, November 2). The replication crisis has engulfed economics. Retrieved November 10, 2015, from <http://theconversation.com/the-replication-crisis-has-engulfed-economics-49202>.
-    - 
 
 ## Resources
 
