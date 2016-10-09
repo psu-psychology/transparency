@@ -15,6 +15,7 @@ This is the repo supporting the Penn State Psychology Department's conversation 
 - Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., … Yarkoni, T. (2015). Promoting an open research culture. Science, 348(6242), 1422–1425. <http://doi.org/10.1126/science.aab2374>. Suggests guidelines for journals.
 - Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science. Psychological Inquiry, 23(3), 244–247. <http://doi.org/10.1080/1047840X.2012.705133>.
 - Nuijten, M. B., Hartgerink, C. H. J., Assen, M. A. L. M. van, Epskamp, S., & Wicherts, J. M. (2015). The prevalence of statistical reporting errors in psychology (1985–2013). Behavior Research Methods, 1–22. <http://doi.org/10.3758/s13428-015-0664-2>.
+        + Reply by Schmidt, T. (2016). Sources of false positives and false negatives in the STATCHECK algorithm: Reply to Nuijten et al. (2015). arXiv:1610.01010 [q-Bio]. Retrieved from <http://arxiv.org/abs/1610.01010>
 - Macleod, M. R., Lawson McLean, A., Kyriakopoulou, A., Serghiou, S., de Wilde, A., Sherratt, N., … Sena, E. S. (2015). Risk of Bias in Reports of In Vivo Research: A Focus for Improvement. PLoS Biol, 13(10), e1002273. <http://doi.org/10.1371/journal.pbio.1002273>.
 - Vanpaemel, W., Vermorgen, M., Deriemaecker, L., & Storms, G. (2015). Are We Wasting a Good Crisis? The Availability of Psychological Research Data after the Storm. Collabra, 1(1). <http://doi.org/10.1525/collabra.13>.
 -  Shaw, D. M., & Erren, T. C. (2015). Ten Simple Rules for Protecting Research Integrity. PLoS Comput Biol, 11(10), e1004388. <http://doi.org/10.1371/journal.pcbi.1004388>.
@@ -48,3 +49,5 @@ This is the repo supporting the Penn State Psychology Department's conversation 
 - [ICPSR](https://www.icpsr.umich.edu/icpsrweb/landing.jsp).
 - [ScholarSphere](https://scholarsphere.psu.edu).
 - American Psychological Association (2015). Data Sharing: Principles and Considerations for Policy Development. Retrieved August 25, 2015, from <http://www.apa.org/science/leadership/bsa/data-sharing-report.aspx>
+- [PubPeer](https://pubpeer.com/)
+
