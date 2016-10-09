@@ -11,7 +11,12 @@ This is the repo supporting the Penn State Psychology Department's conversation 
     + Frank, M. (2015, August 31). Babies Learning Language: The slower, harder ways to increase reproducibility. Retrieved from <http://babieslearninglanguage.blogspot.com/2015/08/the-slower-harder-ways-to-increase.html>.
     + Srivastava, S. (2015, September 2). Moderator interpretations of the Reproducibility Project. Retrieved from <https://hardsci.wordpress.com/2015/09/02/moderator-interpretations-of-the-reproducibility-project/>
     - Earp, B.D. (2015, September 2). Psychology Is Not in Crisis? Depends on What You Mean by "Crisis". Retrieved from <http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html>.
-    - Abrams, D., Clayton, S., & Crandall, C. (n.d.). The Reproducibility Crisis: Less Than Meets the Eye. Retrieved September 20, 2015, from <https://www.psychologytoday.com/blog/sound-science-sound-policy/201509/the-reproducibility-crisis-less-meets-the-eye>.
+    - Abrams, D., Clayton, S., & Crandall, C. (n.d.). The Reproducibility Crisis: Less Than Meets the Eye. Retrieved September 20, 2015, from <https://www.psychologytoday.com/blog/sound-science-sound-policy/201509/the-reproducibility-crisis-less-meets-the-eye>
+    - Bench, S. W., Rivera, G. N., Schlegel, R. J., Hicks, J. A., & Lench, H. C. (2017). Does expertise matter in replication? An examination of the reproducibility project: Psychology. Journal of Experimental Social Psychology, 68, 181–184. <https://doi.org/10.1016/j.jesp.2016.07.003>
+- Bavel, J. J. V., Mende-Siedlecki, P., Brady, W. J., & Reinero, D. A. (2016a). Contextual sensitivity in scientific reproducibility. Proceedings of the National Academy of Sciences, 113(23), 6454–6459. <https://doi.org/10.1073/pnas.1521897113>
+    - Inbar, Y. (2016). Association between contextual dependence and replicability in psychology may be spurious. Proceedings of the National Academy of Sciences, 113(34), E4933–E4934. <https://doi.org/10.1073/pnas.1608676113>
+    - Bavel, J. J. V., Mende-Siedlecki, P., Brady, W. J., & Reinero, D. A. (2016b). Reply to Inbar: Contextual sensitivity helps explain the reproducibility gap between social and cognitive psychology. Proceedings of the National Academy of Sciences, 113(34), E4935–E4936. <https://doi.org/10.1073/pnas.1609700113>
+- Etz, A., & Vandekerckhove, J. (2016). A Bayesian Perspective on the Reproducibility Project: Psychology. PLOS ONE, 11(2), e0149794. <https://doi.org/10.1371/journal.pone.0149794>
 - Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., … Yarkoni, T. (2015). Promoting an open research culture. Science, 348(6242), 1422–1425. <http://doi.org/10.1126/science.aab2374>. Suggests guidelines for journals.
 - Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science. Psychological Inquiry, 23(3), 244–247. <http://doi.org/10.1080/1047840X.2012.705133>.
 - Nuijten, M. B., Hartgerink, C. H. J., Assen, M. A. L. M. van, Epskamp, S., & Wicherts, J. M. (2015). The prevalence of statistical reporting errors in psychology (1985–2013). Behavior Research Methods, 1–22. <http://doi.org/10.3758/s13428-015-0664-2>.
@@ -50,4 +55,3 @@ This is the repo supporting the Penn State Psychology Department's conversation 
 - [ScholarSphere](https://scholarsphere.psu.edu).
 - American Psychological Association (2015). Data Sharing: Principles and Considerations for Policy Development. Retrieved August 25, 2015, from <http://www.apa.org/science/leadership/bsa/data-sharing-report.aspx>
 - [PubPeer](https://pubpeer.com/)
-
