@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+# Data Science @ Penn State Psychology
+
+<img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/12/d5.jpg" width=300px>
+
+This site is a home for data science and reproducibility-related initiatives and resources in the Psychology Department at Penn State.
+
+Please see the [resources](resources.html) link for information about published papers, organizations, and software tools. The [meetings](meetings.html) page has information about initiative-related get-togethers.

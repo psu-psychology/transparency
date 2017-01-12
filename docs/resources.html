@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Resources</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 52px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+
+.section h2 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h3 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h4 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h5 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h6 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Data Science in Psychology</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+<li>
+  <a href="meetings.html">Meetings</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Resources</h1>
+
+</div>
+
+
+<div id="penn-state-resources" class="section level2">
+<h2>Penn State Resources</h2>
+<ul>
+<li>Psychology Department <a href="http://github.com/psu-psychology">GitHub repo</a></li>
+<li><a href="http://bdss.psu.edu/">Big Data Social Science IGERT</a></li>
+<li><a href="http://sites.psu.edu/werclub/2016/10/09/the-goal-of-we-r-penn-state-r-users-group/">WeR User Group (HDFS)</a></li>
+</ul>
+</div>
+<div id="books" class="section level2">
+<h2>Books</h2>
+<ul>
+<li>Gandrud, C. (2015). Reproducible Research with R and R Studio, Second Edition. CRC Press. <a href="https://www.crcpress.com/Reproducible-Research-with-R-and-R-Studio-Second-Edition/Gandrud/p/book/9781498715379" class="uri">https://www.crcpress.com/Reproducible-Research-with-R-and-R-Studio-Second-Edition/Gandrud/p/book/9781498715379</a>.</li>
+<li>Wickham, H. &amp; Grolemund, G. (2016). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media. <a href="http://shop.oreilly.com/product/0636920034407.do" class="uri">http://shop.oreilly.com/product/0636920034407.do</a>.</li>
+</ul>
+</div>
+<div id="software-tools-training" class="section level1">
+<h1>Software, tools, training</h1>
+<ul>
+<li><a href="http://jupyter.org">Jupyter notebooks</a></li>
+<li><a href="http://rstudio.com">RStudio</a></li>
+<li>LaTeX on the web
+<ul>
+<li>ShareLaTex <a href="http://sharelatex.com" class="uri">http://sharelatex.com</a></li>
+<li>Overleaf <a href="http://www.overleaf.com" class="uri">http://www.overleaf.com</a></li>
+<li>Authorea <a href="http://www.authorea.com" class="uri">http://www.authorea.com</a></li>
+</ul></li>
+<li>Experimental Design Assistant for planning animal studies <a href="https://eda.nc3rs.org.uk/" class="uri">https://eda.nc3rs.org.uk/</a></li>
+<li>p-hacker Shiny app <a href="http://shinyapps.org/apps/p-hacker/" class="uri">http://shinyapps.org/apps/p-hacker/</a></li>
+<li><a href="https://sites.trinity.edu/osl">Open Stats Lab</a>. Use data published with psychology papers to teach statistics.</li>
+<li><a href="http://datacamp.com">DataCamp</a></li>
+<li>Software Carpentry</li>
+<li>Data Carpentry</li>
+</ul>
+<div id="selected-peer-reviewed-papers-and-commentaries" class="section level2">
+<h2>Selected peer-reviewed papers and commentaries</h2>
+<ul>
+<li>Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, … Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. <a href="https://doi.org/10.1038/s41562-016-0021" class="uri">https://doi.org/10.1038/s41562-016-0021</a>.</li>
+<li>Poldrack, R. A., Baker, C. I., Durnez, J., Gorgolewski, K. J., Matthews, P. M., Munafò, M. R., … Yarkoni, T. (2017). Scanning the horizon: towards transparent and reproducible neuroimaging research. Nature Reviews Neuroscience, advance online publication. <a href="https://doi.org/10.1038/nrn.2016.167" class="uri">https://doi.org/10.1038/nrn.2016.167</a>.- Collaboration, O. S. (2015). Estimating the reproducibility of psychological Science, 349(6251), aac4716. <a href="http://doi.org/10.1126/science.aac4716" class="uri">http://doi.org/10.1126/science.aac4716</a>.</li>
+<li>Schweinsberg, M., Madan, N., Vianello, M., Sommer, S. A., Jordan, J., Tierney, W., … Uhlmann, E. L. (2016). The pipeline project: Pre-publication independent replications of a single laboratory’s research pipeline. Journal of Experimental Social Psychology, 66, 55–67. <a href="https://doi.org/10.1016/j.jesp.2015.10.001" class="uri">https://doi.org/10.1016/j.jesp.2015.10.001</a></li>
+<li>Bavel, J. J. V., Mende-Siedlecki, P., Brady, W. J., &amp; Reinero, D. A. (2016a). Contextual sensitivity in scientific reproducibility. Proceedings of the National Academy of Sciences, 113(23), 6454–6459. <a href="https://doi.org/10.1073/pnas.1521897113" class="uri">https://doi.org/10.1073/pnas.1521897113</a></li>
+<li>Inbar, Y. (2016). Association between contextual dependence and replicability in psychology may be spurious. Proceedings of the National Academy of Sciences, 113(34), E4933–E4934. <a href="https://doi.org/10.1073/pnas.1608676113" class="uri">https://doi.org/10.1073/pnas.1608676113</a></li>
+<li>Bavel, J. J. V., Mende-Siedlecki, P., Brady, W. J., &amp; Reinero, D. A. (2016b). Reply to Inbar: Contextual sensitivity helps explain the reproducibility gap between social and cognitive psychology. Proceedings of the National Academy of Sciences, 113(34), E4935–E4936. <a href="https://doi.org/10.1073/pnas.1609700113" class="uri">https://doi.org/10.1073/pnas.1609700113</a></li>
+<li>Bishop, D. (2015, October 29). How to make biomedical research more reproducible. Nature. <a href="http://dx.doi.org/10.1038/nature.2015.18684" class="uri">http://dx.doi.org/10.1038/nature.2015.18684</a>.</li>
+<li>Etz, A., &amp; Vandekerckhove, J. (2016). A Bayesian Perspective on the Reproducibility Project: Psychology. PLOS ONE, 11(2), e0149794. <a href="https://doi.org/10.1371/journal.pone.0149794" class="uri">https://doi.org/10.1371/journal.pone.0149794</a></li>
+<li>Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., … Yarkoni, T. (2015). Promoting an open research culture. Science, 348(6242), 1422–1425. <a href="http://doi.org/10.1126/science.aab2374" class="uri">http://doi.org/10.1126/science.aab2374</a>. Suggests guidelines for journals.</li>
+<li>Nuijten, M. B., Hartgerink, C. H. J., Assen, M. A. L. M. van, Epskamp, S., &amp; Wicherts, J. M. (2015). The prevalence of statistical reporting errors in psychology (1985–2013). Behavior Research Methods, 1–22. <a href="http://doi.org/10.3758/s13428-015-0664-2" class="uri">http://doi.org/10.3758/s13428-015-0664-2</a>.</li>
+<li>Ascoli, G. A. (2006). The ups and downs of neuroscience shares. Neuroinformatics, 4(3), 213–215. <a href="http://doi.org/10.1385/NI:4:3:213" class="uri">http://doi.org/10.1385/NI:4:3:213</a></li>
+<li>Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., &amp; Millman, D. (2012). Toward Open Behavioral Science. Psychological Inquiry, 23(3), 244–247. <a href="http://doi.org/10.1080/1047840X.2012.705133" class="uri">http://doi.org/10.1080/1047840X.2012.705133</a>.</li>
+</ul>
+</div>
+<div id="organizations" class="section level2">
+<h2>Organizations</h2>
+<ul>
+<li><a href="http://centerforopenscience.org">The Center for Open Science</a>
+<ul>
+<li><a href="http://osf.io">Open Science Framework (OSF)</a></li>
+<li><a href="https://cos.io/top/">Transparency and Openness Promotion (TOP) Guidelines</a>.</li>
+</ul></li>
+<li><a href="http://databrary.org">Databrary</a>.
+<ul>
+<li>Open science, data sharing, analysis tool <a href="https://github.com/databrary/design/blob/master/references.md">links</a>.</li>
+<li><a href="https://databrary.org/access/policies/data-sharing-manifesto.html">Data sharing manifesto</a></li>
+</ul></li>
+<li><a href="http://improvingpsych.org/">Society for the Improvement of Psychological Science (SIPS)</a>
+<ul>
+<li>Sponsor of <a href="https://osf.io/view/psyarxiv/">PsyArXiv</a> preprint server.</li>
+</ul></li>
+<li><a href="https://www.icpsr.umich.edu/icpsrweb/landing.jsp">ICPSR</a>.</li>
+<li><a href="https://scholarsphere.psu.edu">ScholarSphere</a>.</li>
+<li>American Psychological Association (2015). Data Sharing: Principles and Considerations for Policy Development. Retrieved August 25, 2015, from <a href="http://www.apa.org/science/leadership/bsa/data-sharing-report.aspx" class="uri">http://www.apa.org/science/leadership/bsa/data-sharing-report.aspx</a></li>
+<li><a href="https://pubpeer.com/">PubPeer</a></li>
+</ul>
+</div>
+<div id="blogs-specific-posts" class="section level2">
+<h2>Blogs &amp; specific posts</h2>
+<ul>
+<li>R bloggers <a href="https://www.r-bloggers.com/" class="uri">https://www.r-bloggers.com/</a></li>
+<li>Open science in practice. <a href="https://inattentionalcoffee.wordpress.com/2017/01/03/open-science-in-practice/" class="uri">https://inattentionalcoffee.wordpress.com/2017/01/03/open-science-in-practice/</a></li>
+<li>Practicing what I preach: The open Ph.D. experiment. <a href="http://www.librarianinthecity.com/2016/12/practicing-what-i-preach-the-open-phd-experiment/" class="uri">http://www.librarianinthecity.com/2016/12/practicing-what-i-preach-the-open-phd-experiment/</a></li>
+<li>Jupyter, Zeppelin, Beaker: The Rise of the Notebooks. <a href="https://opendatascience.com/blog/jupyter-zeppelin-beaker-the-rise-of-the-notebooks/" class="uri">https://opendatascience.com/blog/jupyter-zeppelin-beaker-the-rise-of-the-notebooks/</a></li>
+<li>Open science and free culture. <a href="http://www.simoncolumbus.com/publications-2/open-science-and-free-culture/" class="uri">http://www.simoncolumbus.com/publications-2/open-science-and-free-culture/</a></li>
+<li><a href="https://osf.io/wfc6u/">Collaborative Replications and Education Project (CREP)</a>.</li>
+<li>Bohannon, J. (2015). Many psychology papers fail replication test. Science, 349(6251), 910–911. <a href="http://doi.org/10.1126/science.349.6251.910" class="uri">http://doi.org/10.1126/science.349.6251.910</a>.</li>
+<li>Barrett, L. F. (2015, September 1). Psychology Is Not in Crisis. The New York Times. Retrieved from <a href="http://www.nytimes.com/2015/09/01/opinion/psychology-is-not-in-crisis.html" class="uri">http://www.nytimes.com/2015/09/01/opinion/psychology-is-not-in-crisis.html</a></li>
+<li>Caplan, A. (2015, September 8). How Reliable Are Psychology Studies? The New York Times. Retrieved from <a href="http://www.nytimes.com/2015/09/08/opinion/how-reliable-are-psychology-studies.html" class="uri">http://www.nytimes.com/2015/09/08/opinion/how-reliable-are-psychology-studies.html</a></li>
+<li>Frank, M. (2015, August 31). Babies Learning Language: The slower, harder ways to increase reproducibility. Retrieved from <a href="http://babieslearninglanguage.blogspot.com/2015/08/the-slower-harder-ways-to-increase.html" class="uri">http://babieslearninglanguage.blogspot.com/2015/08/the-slower-harder-ways-to-increase.html</a>.</li>
+<li>Srivastava, S. (2015, September 2). Moderator interpretations of the Reproducibility Project. Retrieved from <a href="https://hardsci.wordpress.com/2015/09/02/moderator-interpretations-of-the-reproducibility-project/" class="uri">https://hardsci.wordpress.com/2015/09/02/moderator-interpretations-of-the-reproducibility-project/</a></li>
+<li>Earp, B.D. (2015, September 2). Psychology Is Not in Crisis? Depends on What You Mean by “Crisis”. Retrieved from <a href="http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html" class="uri">http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html</a>.</li>
+<li>Abrams, D., Clayton, S., &amp; Crandall, C. (n.d.). The Reproducibility Crisis: Less Than Meets the Eye. Retrieved September 20, 2015, from <a href="https://www.psychologytoday.com/blog/sound-science-sound-policy/201509/the-reproducibility-crisis-less-meets-the-eye" class="uri">https://www.psychologytoday.com/blog/sound-science-sound-policy/201509/the-reproducibility-crisis-less-meets-the-eye</a></li>
+<li>Bench, S. W., Rivera, G. N., Schlegel, R. J., Hicks, J. A., &amp; Lench, H. C. (2017). Does expertise matter in replication? An examination of the reproducibility project: Psychology. Journal of Experimental Social Psychology, 68, 181–184. <a href="https://doi.org/10.1016/j.jesp.2016.07.003" class="uri">https://doi.org/10.1016/j.jesp.2016.07.003</a></li>
+<li>Reply by Schmidt, T. (2016). Sources of false positives and false negatives in the STATCHECK algorithm: Reply to Nuijten et al. (2015). arXiv:1610.01010 [q-Bio]. Retrieved from <a href="http://arxiv.org/abs/1610.01010" class="uri">http://arxiv.org/abs/1610.01010</a></li>
+<li>Macleod, M. R., Lawson McLean, A., Kyriakopoulou, A., Serghiou, S., de Wilde, A., Sherratt, N., … Sena, E. S. (2015). Risk of Bias in Reports of In Vivo Research: A Focus for Improvement. PLoS Biol, 13(10), e1002273. <a href="http://doi.org/10.1371/journal.pbio.1002273" class="uri">http://doi.org/10.1371/journal.pbio.1002273</a>.</li>
+<li>Vanpaemel, W., Vermorgen, M., Deriemaecker, L., &amp; Storms, G. (2015). Are We Wasting a Good Crisis? The Availability of Psychological Research Data after the Storm. Collabra, 1(1). <a href="http://doi.org/10.1525/collabra.13" class="uri">http://doi.org/10.1525/collabra.13</a>.</li>
+<li>Shaw, D. M., &amp; Erren, T. C. (2015). Ten Simple Rules for Protecting Research Integrity. PLoS Comput Biol, 11(10), e1004388. <a href="http://doi.org/10.1371/journal.pcbi.1004388" class="uri">http://doi.org/10.1371/journal.pcbi.1004388</a>.</li>
+<li>Shanks DR, Vadillo MA, Riedel B, Clymo A, Govind S, Hickin N, Tamman AJ, &amp; Puhlmann LM (2015). Romance, Risk, and Replication: Can Consumer Choices and Risk-Taking Be Primed by Mating Motives? Journal of experimental psychology. General PMID: 26501730.</li>
+<li>Neuroskeptic. (2015, November 15). Reproducibility Crisis: The plot thickens. Retrieved November 15, 2015 from <a href="http://blogs.discovermagazine.com/neuroskeptic/2015/11/10/reproducibility-crisis-the-plot-thickens/#.VkS7loT9mzf" class="uri">http://blogs.discovermagazine.com/neuroskeptic/2015/11/10/reproducibility-crisis-the-plot-thickens/#.VkS7loT9mzf</a></li>
+<li>Gelman, A. (2015, September 14). Why aren’t people sharing their data and code? Retrieved September 20, 2015, from <a href="http://andrewgelman.com/2015/09/14/its-not-so-easy-to-share-data-and-code-and-there-are-lots-of-bureaucrats-who-spend-their-time-making-it-even-more-difficult/" class="uri">http://andrewgelman.com/2015/09/14/its-not-so-easy-to-share-data-and-code-and-there-are-lots-of-bureaucrats-who-spend-their-time-making-it-even-more-difficult/</a></li>
+<li>Gelman, Andrew. (2015, September 16). The aching desire for regular scientific breakthroughs. Retrieved September 20, 2015, from <a href="http://andrewgelman.com/2015/09/16/harsh/" class="uri">http://andrewgelman.com/2015/09/16/harsh/</a></li>
+<li>Eisenberg, N. (2015, June). Thoughts on the Future of Data Sharing - Association for Psychological Science. Retrieved from <a href="https://www.psychologicalscience.org/index.php/publications/observer/2015/may-june-15/thoughts-on-the-future-of-data-sharing.html" class="uri">https://www.psychologicalscience.org/index.php/publications/observer/2015/may-june-15/thoughts-on-the-future-of-data-sharing.html</a></li>
+<li>Bishop, Dorothy. (2015, July 11). BishopBlog: Publishing replication failures: some lessons from history. Retrieved from <a href="http://deevybee.blogspot.com/2015/07/publishing-replication-failures-some.html" class="uri">http://deevybee.blogspot.com/2015/07/publishing-replication-failures-some.html</a></li>
+<li>Johnson, C. Y. (2015, October 15). What happened when a group of researchers tried to repeat a headline-grabbing study. The Washington Post. Retrieved from <a href="https://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/what-happened-when-a-group-of-researchers-tried-to-repeat-a-headline-grabbing-study/" class="uri">https://www.washingtonpost.com/news/wonkblog/wp/2015/10/15/what-happened-when-a-group-of-researchers-tried-to-repeat-a-headline-grabbing-study/</a>.</li>
+<li>Leek, J. (2015, October 1). A glass half full interpretation of the replicability of psychological science | Simply Statistics. Retrieved from <a href="http://simplystatistics.org/2015/10/01/a-glass-half-full-interpretation-of-the-replicability-of-psychological-science/" class="uri">http://simplystatistics.org/2015/10/01/a-glass-half-full-interpretation-of-the-replicability-of-psychological-science/</a>.</li>
+<li>Nagel, T. (2015, October 8). New approach could help reduce bias in research, Stanford scholar says. Retrieved November 2, 2015, from <a href="http://news.stanford.edu/news/2015/october/research-analysis-maccoun-100815.html" class="uri">http://news.stanford.edu/news/2015/october/research-analysis-maccoun-100815.html</a>.</li>
+<li>Guerra, S. (2015, September 28). Reproduce or Bust?!: Bringing Reproducibility Back to Center Stage | Science in the News. Retrieved from <a href="http://sitn.hms.harvard.edu/flash/2015/reproduce-or-bust-bringing-reproducibility-back-to-center-stage/" class="uri">http://sitn.hms.harvard.edu/flash/2015/reproduce-or-bust-bringing-reproducibility-back-to-center-stage/</a>.</li>
+<li>Earp, B. D. (2015, September 2). Psychology Is Not in Crisis? Depends on What You Mean by “Crisis”. Retrieved November 2, 2015, from <a href="http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html" class="uri">http://www.huffingtonpost.com/brian-earp/psychology-is-not-in-crisis_b_8077522.html</a>.</li>
+<li>Makel, J. P. &amp; M. (2015, November 4). The Painful Necessity of Replicating Research - Education Week. Education Week. Retrieved from <a href="http://www.edweek.org/ew/articles/2015/11/04/the-painful-necessity-of-replicating-research.html" class="uri">http://www.edweek.org/ew/articles/2015/11/04/the-painful-necessity-of-replicating-research.html</a>.</li>
+<li>Lindsay, D. S. (2015). Replication in Psychological Science. Psychological Science, 0956797615616374. <a href="http://doi.org/10.1177/0956797615616374" class="uri">http://doi.org/10.1177/0956797615616374</a>.</li>
+<li>politicalsciencereplication.wordpress.com. (n.d.). Political Scientists Trying to Delay Research Transparency. Retrieved from <a href="https://politicalsciencereplication.wordpress.com/2015/11/07/political-scientists-trying-to-delay-research-transparency/" class="uri">https://politicalsciencereplication.wordpress.com/2015/11/07/political-scientists-trying-to-delay-research-transparency/</a></li>
+<li>Ortman, Andreas (2015, November 2). The replication crisis has engulfed economics. Retrieved November 10, 2015, from <a href="http://theconversation.com/the-replication-crisis-has-engulfed-economics-49202" class="uri">http://theconversation.com/the-replication-crisis-has-engulfed-economics-49202</a>.</li>
+</ul>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

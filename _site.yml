@@ -1,0 +1,17 @@
+name: "Data Science @ PSU Psychology"
+navbar:
+  title: "Data Science in Psychology"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Meetings"
+      href: meetings.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
